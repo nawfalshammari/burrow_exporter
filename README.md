@@ -1,6 +1,6 @@
 # burrow-exporter
 
-This project is a direct fork from https://github.com/solsson/burrow_exporter.
+This project is a hard fork from https://github.com/solsson/burrow_exporter.
 The additional content is support to have metrics about the number of active brokers in a cluster.
 
 ## Run with Docker
